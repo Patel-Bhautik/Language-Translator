@@ -6,11 +6,11 @@ Features
 * Document Translation: Upload entire files (TXT) for automatic translation, retaining the original format and structure.
 
 Supported Document Types
-* TXT – Plain Text File
+* TXT â€“ Plain Text File
 
 Installation
 * Clone the repository:
-git clone https://github.com/your-username/language-translator.git
+git clone https://github.com/Patel-Bhautik/language-translator.git
 
 Document Translation
 * To translate a document, upload it via the designated endpoint or user interface (if provided). Supported formats include TXT and the translated output will retain the original format.
@@ -18,4 +18,4 @@ Document Translation
 Contributing
 * Contributions are welcome! If you have ideas for additional features or optimizations, feel free to submit a pull request or open an issue.
 
-Check this project:- https://patel-bhautik.github.io/Language-Translator/
+Check this project:-Â https://patel-bhautik.github.io/Language-Translator/
