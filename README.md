@@ -21,4 +21,4 @@ Contributing
 Check this project:- https://patel-bhautik.github.io/Language-Translator/
 
 License
-* This project is licensed under the MIT License - see the LICENSE file for details.
+* This project is licensed under the MIT License - see the [LICENSE](https://github.com/Patel-Bhautik/Language-Translator/tree/main?tab=MIT-1-ov-file#MIT-1-ov-file) file for details.
