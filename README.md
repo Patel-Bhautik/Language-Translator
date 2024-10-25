@@ -19,3 +19,6 @@ Contributing
 * Contributions are welcome! If you have ideas for additional features or optimizations, feel free to submit a pull request or open an issue.
 
 Check this project:- https://patel-bhautik.github.io/Language-Translator/
+
+License
+* This project is licensed under the MIT License - see the LICENSE file for details.
