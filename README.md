@@ -1,4 +1,4 @@
-# Password-Generator
+# Language-Translator
 * Language Translator is a versatile tool designed for translating text and documents across multiple languages using the free Google Translate API. This project provides a user-friendly, efficient translation experience, supporting various document formats and batch translation requests for quick, streamlined results. Ideal for personal or small-scale translation needs, Language Translator makes multilingual content accessible with minimal setup.
 
 Features
